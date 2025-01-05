@@ -1,3 +1,5 @@
+
+
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
 ## 🚀 Introdução
@@ -33,10 +35,7 @@ Pensando em como um erro médico pode transformar as pessoas em zumbis, e esse z
 
 ## 🚀 Resultados
 
-![_ac669fb6-a5b0-44ac-8fa3-d62814f85049](https://github.com/user-attachments/assets/44a0cc67-f705-4ec5-b778-b6c3a1d5bcdd)
-
-(https://www.bing.com/images/create/imagem-de-um-zumbi-punk-em-uma-festa-de-formatura-/1-677a83f8c0f8424daae1c05282ab6882?id=fk6hHjLFw7%2BDMoF2BEOZaA%3D%3D&view=detailv2&idpp=genimg&thId=OIG4.emqV6muFS8DeSwHdwJh7&skey=9HuGG2yKLQLH7EPa5jDkxxIoO-c7N0xlE5kO1hO_n1g&mode=o![Uploading _ac669fb6-a5b0-44ac-8fa3-d62814f85049.jpg…]()
-verlay&shtc=0&shth=OIG4.emqV6muFS8DeSwHdwJh7&shsc=idp&form=EX0023&shid=d5dfe6a4-82b1-460a-91b4-7e925081d36a&shtp=copyUrl&shtk=QmluZw%3D%3D&shdk=QSBwZXNxdWlzYSBpbnRlbGlnZW50ZSBkbyBCaW5nIHRvcm5hIG1haXMgZsOhY2lsIGVuY29udHJhciByYXBpZGFtZW50ZSBvIHF1ZSB2b2PDqiBlc3TDoSBwcm9jdXJhbmRvIGUgcmVjb21wZW5zYSB2b2PDqi4%3D&shhk=Jpxe5%2F2XMKpi9ofjrURn9L6iI1iJp2tVN5yZl7Ij7Zk%3D)
+![_ac669fb6-a5b0-44ac-8fa3-d62814f85049](https://github.com/user-attachments/assets/ccdbfca8-6ca9-45d0-8cd4-46e3de0e92ab)
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
