@@ -35,7 +35,7 @@ Pensando em como um erro médico pode transformar as pessoas em zumbis, e esse z
 
 ## 🚀 Resultados
 
-![_ac669fb6-a5b0-44ac-8fa3-d62814f85049](https://github.com/user-attachments/assets/ccdbfca8-6ca9-45d0-8cd4-46e3de0e92ab)
+![Medicina Moderna](https://github.com/user-attachments/assets/ccdbfca8-6ca9-45d0-8cd4-46e3de0e92ab)
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
